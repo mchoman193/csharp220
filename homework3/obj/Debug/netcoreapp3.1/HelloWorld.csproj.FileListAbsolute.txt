@@ -1,0 +1,42 @@
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\PanelWindow.g.cs
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\App.g.cs
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld_MarkupCompile.cache
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld_MarkupCompile.lref
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\MainWindow.baml
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\PanelWindow.baml
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.g.resources
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\SecondWindow.g.cs
+\\vmware-host\Shared Folders\Documents\Mark\UW\In-class Projects\HelloWorld\obj\Debug\netcoreapp3.1\SecondWindow.baml
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\bin\Debug\netcoreapp3.1\HelloWorld.exe
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\bin\Debug\netcoreapp3.1\HelloWorld.dll
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\obj\Debug\netcoreapp3.1\SecondWindow.g.cs
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\obj\Debug\netcoreapp3.1\App.g.cs
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\obj\Debug\netcoreapp3.1\HelloWorld_MarkupCompile.cache
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\obj\Debug\netcoreapp3.1\HelloWorld_MarkupCompile.lref
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\obj\Debug\netcoreapp3.1\SecondWindow.baml
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\obj\Debug\netcoreapp3.1\HelloWorld.g.resources
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\obj\Debug\netcoreapp3.1\HelloWorld.dll
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+\\vmware-host\Shared Folders\Documents\Mark\UW\Homework\homework3\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
