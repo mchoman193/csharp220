@@ -1,0 +1,15 @@
+﻿<Window x:Class="homework4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:homework4"
+        mc:Ignorable="d"
+        Title="Homework 4" Height="160" Width="300" ResizeMode="CanMinimize">
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock Text="Zip Code Validator" HorizontalAlignment="Center" Margin="0, 0, 0, 10" FontWeight="Bold"/>
+        <TextBlock Text="Enter a valid US or Canadian zip code:" HorizontalAlignment="Left"/>
+        <TextBox Name="uxZipCodeTextBox" Text="" Width="120" HorizontalAlignment="Left" Margin="0, 0, 0, 10" TextChanged="ValidateZipCode"/>
+        <Button Name="uxSubmitButton" Content="Submit" Width="100" IsEnabled="False"/>
+    </StackPanel>
+</Window>
